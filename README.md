@@ -1,5 +1,5 @@
-# [ SERP ] Space. Exploration. RolePlay
- Space Exploration RolePlay, hereby refered to as SERP, is a roleplay experience to allow a community to create their own species, own lore, and interact with other players without overstepping bounds or creating conflicting lore/paradoxes/inconsistancies.
+# [ SERP ] Space Era RolePlay
+ Space Era RolePlay, hereby refered to as SERP, is a roleplay experience to allow a community to create their own species, own lore, and interact with other players without overstepping bounds or creating conflicting lore/paradoxes/inconsistancies.
 
  This github repo will house markdown files of all the individual lore aspects of this in game universe, as well as information on how to contribute, spin off, or interact with this framework in any capacity.
 
