@@ -1,0 +1,2 @@
+# Telomere-Repairing
+Using a wide variety of medical procedures, enzymes, and other biological components, Telomeres (the ends of DNA strands) are able to be repaired. This means that beings can live longer lives if they are careful with this advancement.

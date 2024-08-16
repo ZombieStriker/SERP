@@ -1,0 +1,2 @@
+# Electro Magnetic Repulsor (EM-Repulsor)
+The Electo Maagnetic Repulsor, or EM Repulsot, or Repulsor for short, is a common bit of technology found across the human variants. Using electromagnitism to accelerate electrons, this device allows for near-propellantless travel. The downside is it is very slow, and does not produce that much thrust. Useful for small crafts or long term missions, but not useful in space warfare.

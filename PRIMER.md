@@ -1,0 +1,6 @@
+# Overview
+There are potentially hundreds, if not thousands of types of sentient lifeforms out in the galaxy. Some are human descendants, others were uplifted by humans, while others never even interacted with humans. Space is vast, and you will most likely never see all of it. However, that doesn't stop empires from rising and falling, civilizations from expanding and changes, and sentient beings enjoying life.
+
+The Universal Confederacy was established in 1 UE, marking the first year of the new calendar. The Universal Confederacy is the collection sentient beings across multiple planets and species, which does not dictate what each planet or species does, but instead tries to organize standardization across the universe. Most know of its existance, but it rarely affects people or species in their day-to-day lives.
+
+Humans, and their original planet Earth, have been long lost and destroyed. During the Diaspora Era, almost all of earths habitants left earth to leave to far away star systems. Those that remained saw the eventual death of earth, leaving it an inhabitibal wasteland. Those that fled earth changed, either due to genetic engineering, or natural changes due to evolution. As a result, all human colony ships that went to different star systems ended up with different types of humans.
